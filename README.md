@@ -3,7 +3,8 @@
 - 简介: 90后大叔,位置深圳,性别男爱好女,擅长iOS,从事安卓开发!
 - 擅长: Objective-C, Swift, JAVA...
 - 主页: www.it7090.com
-- 交流群: 537476189
+- 邮箱: 977950862@qq.com
+- 交流Q群: 537476189
 
 <!---
 **CoderZhuXH/CoderZhuXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
