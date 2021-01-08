@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CoderZhuXH&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-- 简介: 90后大叔,位置深圳,性别男爱好女,擅长iOS,从事安卓开发!
+- 简介: 90后大叔,现居深圳,性别男爱好女,擅长iOS,从事安卓开发!
 - 擅长: Objective-C, Swift, JAVA...
 - 主页: www.it7090.com
 - 邮箱: 977950862@qq.com
